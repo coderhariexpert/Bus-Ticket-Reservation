@@ -12,10 +12,3 @@ version: 1.0.0
 1. Java JFrame
 
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/y8KnCBRzTnw)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
