@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\mano\\mysql-connector-j-8.2.0.jar",
+        "e:\\mano\\rs2xml.jar",
+        "e:\\mano\\Mepco\\jcalendar-1.4\\lib\\jcalendar-1.4.jar",
+        "e:\\mano\\pdfbox-app-3.0.1.jar",
+        "c:\\Users\\Hari\\Downloads\\Compressed\\MySqlJdbcDriver\\mysql-connector-j-8.1.0.jar",
+        "c:\\Users\\Hari\\Downloads\\Compressed\\jcalendar-1.4\\lib\\jcalendar-1.4.jar"
+    ]
+}
